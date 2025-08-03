@@ -1,0 +1,12 @@
+*.DS_Store
+*.pyc
+*.egg-info
+.idea/
+.venv/
+
+xvfb.log
+bin
+
+trained_models
+dist
+requirements.resolved
